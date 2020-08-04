@@ -1,0 +1,23 @@
+{
+  "name": "Shoplist-FullStack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirDebbie/Shoplist-FullStack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmirDebbie/Shoplist-FullStack/issues"
+  },
+  "homepage": "https://github.com/AmirDebbie/Shoplist-FullStack#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
