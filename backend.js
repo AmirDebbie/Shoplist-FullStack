@@ -8,12 +8,10 @@ let products = [
     {
         id: '1111',
         name: 'Milk',
-        amount: 5
     },
     {
         id: '2222',
         name: 'Bread',
-        amount: 2
     }
 ];
 
