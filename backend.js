@@ -26,11 +26,6 @@ app.get('/products/:id', (req, res) => {
         }
     }
 })
-
-app.get('/', (req, res) => {
-    res.send('Hello World');
-});
-
 app.post('/products', (req, res) => {
     products.push(req.body);
     res.send(req.body);
